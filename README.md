@@ -1,1 +1,13 @@
-# My-First-Data-Analysis-Repo
+# PROJECT NAME: My-First-Data-Analysis-Repo
+
+____
+# PROJECT OBJECTIVE: Problem Statement
+
+____
+# DATA SOURCING
+
+____
+# DATA TRANSFORMATION
+
+____
+# FINDINGD AND RECOMMENDATION
